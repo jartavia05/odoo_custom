@@ -7,7 +7,7 @@
     "summary": "Reporte de Facturacion",
     "version": "1.0",
     "description": """
-Reporte Personalizado de Facturas para Odoo 12
+Reporte Personalizado de Facturacion Electronica para Odoo 12
         """,
     "depends": [
         "sale_management",
